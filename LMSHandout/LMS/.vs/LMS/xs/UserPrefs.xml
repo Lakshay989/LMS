@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{AD593FE2-22C7-42FE-BC1F-194660898699}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LMS PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/CommonController.cs">
+    <Files>
+      <File FileName="Areas/Identity/Pages/Account/Register.cshtml.cs" Line="242" Column="62" />
+      <File FileName="Models/LMSModels/Student.cs" Line="18" Column="28" />
+      <File FileName="Models/LMSModels/Department.cs" Line="12" Column="47" />
+      <File FileName="Controllers/AdministratorController.cs" Line="51" Column="10" />
+      <File FileName="Controllers/ProfessorController.cs" Line="11" Column="1" />
+      <File FileName="Controllers/CommonController.cs" Line="30" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LMS" expanded="True">
+            <Node name="LMS">
+              <Node name="Areas" expanded="True">
+                <Node name="Identity" expanded="True">
+                  <Node name="Pages" expanded="True">
+                    <Node name="Account" expanded="True">
+                      <Node name="Register.cshtml" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="CommonController.cs" selected="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="LMSModels" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
